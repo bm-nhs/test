@@ -1,3 +1,3 @@
-import { main } from "./src/test.ts";
+import { main } from "./src/launches/launches.ts";
 
 main();
